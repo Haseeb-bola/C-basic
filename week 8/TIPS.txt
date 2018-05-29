@@ -1,0 +1,19 @@
+ INLINE FUNCTION ;
+ 
+in this type of function programe is executed on line:
+in user define where we use function calling its is replace by function defination:
+so programe is excuted in main function without going to another function:
+when we call a function so main function go there so it take memory also so process;
+
+""we can also write defination of user define function above int main function in this case 
+user define function declaration is optional ""
+
+
+however in large function it is useful becoz if main get damage other function work ;
+e.g when car tube light funtion is not working still others parts are working :::  
+____________________________________________________________________________________________
+
+OVER LOADED FUNCTION ;
+
+function having  same name , but many tasks :::
+____________________________________________________________________________________________
